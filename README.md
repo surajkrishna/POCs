@@ -1,4 +1,4 @@
 # POCs
 
-# React + GraphQL 
+## React + GraphQL 
 - Mini fullstack app consuming third party API

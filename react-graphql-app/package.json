@@ -1,0 +1,23 @@
+{
+  "name": "spacex_lunch_state",
+  "version": "1.0.0",
+  "description": "App that list SpaceX Lunch Mission",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "Suraj Krishna",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "concurrently": "^4.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.0",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.3.1",
+    "nodemon": "^1.19.1"
+  }
+}

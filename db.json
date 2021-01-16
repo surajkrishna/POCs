@@ -1,4 +1,5 @@
-[
+
+{
  "chartData": {
           "xaxis":"Incident_city ",
           "modifiedQuery":"show sum of capital-loss by incident_city",
@@ -29,4 +30,4 @@
           ]
    }
 
- ]
+}

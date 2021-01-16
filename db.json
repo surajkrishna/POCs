@@ -43,7 +43,7 @@
           "numberOfRecordsProcessed":"1000",
           "yaxis":"Sum Capital_loss",
           "timeTakenToQuery":"22",
-          "chartNameFromQuery":"pie chart",
+          "chartNameFromQuery":"bar chart",
           "labels":[
              "Springfield",
              "Arlington",

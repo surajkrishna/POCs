@@ -6,17 +6,17 @@
           "charttype":"chart",
           "chart_desc":"two_dimensional",
           "datasets": [{
-				"label": 'Dataset 1',
+				"label": "Dataset 1",
 				"backgroundColor": [
-					red,
-					orange,
-					yellow,
-					green,
-					blue,
-					purple,
-					red
+					"red",
+					"orange",
+					"yellow",
+					"green",
+					"blue",
+					"purple",
+					"red"
 				],
-				"yAxisID": 'y-axis-1',
+				"yAxisID": "y-axis-1",
 				"data": [
 					10,
 					20,
@@ -27,9 +27,9 @@
 					22
 				]
 			}, {
-				"label": 'Dataset 2',
-				"backgroundColor": grey,
-				"yAxisID": 'y-axis-2',
+				"label": "Dataset 2",
+				"backgroundColor": "grey",
+				"yAxisID": "y-axis-2",
 				"data": [
 						10,
 					24,

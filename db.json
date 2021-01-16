@@ -5,9 +5,9 @@
           "modifiedQuery":"show sum of capital-loss by incident_city",
           "charttype":"chart",
           "chart_desc":"two_dimensional",
-          datasets: [{
-				label: 'Dataset 1',
-				backgroundColor: [
+          "datasets": [{
+				"label": 'Dataset 1',
+				"backgroundColor": [
 					red,
 					orange,
 					yellow,
@@ -16,8 +16,8 @@
 					purple,
 					red
 				],
-				yAxisID: 'y-axis-1',
-				data: [
+				"yAxisID": 'y-axis-1',
+				"data": [
 					10,
 					20,
 					30,
@@ -27,10 +27,10 @@
 					22
 				]
 			}, {
-				label: 'Dataset 2',
-				backgroundColor: grey,
-				yAxisID: 'y-axis-2',
-				data: [
+				"label": 'Dataset 2',
+				"backgroundColor": grey,
+				"yAxisID": 'y-axis-2',
+				"data": [
 						10,
 					24,
 					30,

@@ -6,47 +6,24 @@
           "charttype":"chart",
           "chart_desc":"two_dimensional",
           "datasets": [{
-				"label": "Dataset 1",
-				"backgroundColor": [
-					"red",
-					"orange",
-					"yellow",
-					"green",
-					"blue"
-					
-				],
-				"yAxisID": "y-axis-1",
-				"data": [
-					10,
-					20,
-					30,
-					40,
-					55
-					
-				]
-			}, {
-				"label": "Dataset 2",
-				"backgroundColor": "grey",
-				"yAxisID": "y-axis-2",
-				"data": [
-						10,
-					24,
-					30,
-					47,
-					55
-					
-				]
-			}],
+            label: 'Bar Dataset',
+            data: [10, 20, 30, 40]
+        }, {
+            label: 'Line Dataset',
+            data: [50, 50, 50, 50],
+
+            // Changes this dataset to become a line
+            type: 'line'
+        }],
           "numberOfRecordsProcessed":"1000",
           "yaxis":"Sum Capital_loss",
           "timeTakenToQuery":"22",
-          "chartNameFromQuery":"bar chart multi axis",
+          "chartNameFromQuery":"dual chart",
           "labels":[
              "Springfield",
              "Arlington",
              "Columbus",
-             "Northbend",
-             "Hillsdale"
+             "Northbend"
           ]
    }
 

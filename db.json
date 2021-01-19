@@ -6,14 +6,14 @@
           "charttype":"chart",
           "chart_desc":"two_dimensional",
           "datasets": [{
-            "label": 'Bar Dataset',
+            "label": "Bar Dataset",
             "data": [10, 20, 30, 40]
         }, {
-            "label": 'Line Dataset',
+            "label": "Line Dataset",
             "data": [50, 50, 50, 50],
 
-            // Changes this dataset to become a line
-            "type": 'line'
+            
+            "type": "line"
         }],
           "numberOfRecordsProcessed":"1000",
           "yaxis":"Sum Capital_loss",

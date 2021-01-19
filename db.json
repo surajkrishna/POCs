@@ -6,19 +6,19 @@
           "charttype":"chart",
           "chart_desc":"two_dimensional",
           "datasets": [{
-            label: 'Bar Dataset',
-            data: [10, 20, 30, 40]
+            "label": 'Bar Dataset',
+            "data": [10, 20, 30, 40]
         }, {
-            label: 'Line Dataset',
-            data: [50, 50, 50, 50],
+            "label": 'Line Dataset',
+            "data": [50, 50, 50, 50],
 
             // Changes this dataset to become a line
-            type: 'line'
+            "type": 'line'
         }],
           "numberOfRecordsProcessed":"1000",
           "yaxis":"Sum Capital_loss",
           "timeTakenToQuery":"22",
-          "chartNameFromQuery":"dual chart",
+          "chartNameFromQuery":"bar",
           "labels":[
              "Springfield",
              "Arlington",

@@ -9,6 +9,7 @@
         "type":"line",
         "data":[51,65,40,49,60],
         "fill":false,
+          "borderWidth": 2,
         "borderColor":"#EC932F",
         "backgroundColor":"#EC932F",
         "pointBorderColor":"#EC932F",

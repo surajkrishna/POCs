@@ -1,4 +1,4 @@
-[{
+{ report:[{
     "xaxis":"Incident_city ",
     "modifiedQuery":"show sum of capital-loss by incident_city",
     "charttype":"chart",
@@ -36,3 +36,4 @@
     "labels":["Springfield","Arlington","Columbus","Northbend","Hillsdale"]
   }
 ]
+}

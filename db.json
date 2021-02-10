@@ -34,7 +34,7 @@
     "yaxis":"Sum Capital_loss",
     "timeTakenToQuery":"22",
     "chartNameFromQuery":"bar chart multi axis",
-    "labels":["Springfield","Arlington","Columbus","Northbend","Hillsdale"]
+    
   }
 
 }

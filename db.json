@@ -34,7 +34,15 @@
     "yaxis":"Sum Capital_loss",
     "timeTakenToQuery":"22",
     "chartNameFromQuery":"bar chart multi axis",
-    
+     "labels": [
+                "January",
+                "February",
+                "March",
+                "April",
+                "May",
+                "June",
+                "July",
+              ],
   }
 
 }
